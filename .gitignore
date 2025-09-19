@@ -1,0 +1,11 @@
+projects
+shell-snapshots/
+statsig/
+todos/
+settings.json
+junk-pile/
+plugins/
+agent-templates/error-test.md
+.claude/
+local/
+.gemini/
